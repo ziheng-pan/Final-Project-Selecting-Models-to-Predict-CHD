@@ -1,2 +1,2 @@
 # Final-Project-Selecting-Models-to-Predict-CHD
-A final project of ML application
+I selected a dataset from a cardiovascular study on residents of the town of Framingham, Massachusetts. My primary goal was to find an optimal model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). I performed different models and compared their accuracy scores and feature importances. Eventually, I finalized a desirable Neural Network model with dropouts. 
